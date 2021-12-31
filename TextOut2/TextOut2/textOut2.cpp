@@ -41,11 +41,13 @@ int APIENTRY WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance
 	return (int)Message.wParam;
 }
 
-HDC hdc;
-PAINTSTRUCT ps;
 LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage,
 	WPARAM wParam, LPARAM lParam)
 {
+
+	HDC hdc;
+	PAINTSTRUCT ps;
+
 	switch (iMessage) {
 	case WM_PAINT:
 		hdc = BeginPaint(hWnd, &ps);
