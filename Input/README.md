@@ -2,5 +2,5 @@
    #### Key, KeyDown 프로젝트 → 키보드 입력
    Key : 입력한 문자열을 화면에 출력하기  
    KeyDown : 화면에 출력한 네모를 방향키를 통해 이동하기  
-   [블로그에서 자세한 내용 확인하기](https://chanos.tistory.com/entry/Windows-API-Win32-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%ED%82%A4%EB%B3%B4%EB%93%9C-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
+   👉[블로그에서 자세한 내용 확인하기](https://chanos.tistory.com/entry/Windows-API-Win32-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%ED%82%A4%EB%B3%B4%EB%93%9C-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
 <hr/>
