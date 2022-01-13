@@ -1,0 +1,3 @@
+﻿  RandGrp.cpp
+C:\test_api\RandGrp\RandGrp.cpp(46,14): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  RandGrp.vcxproj -> C:\test_api\RandGrp\Debug\RandGrp.exe

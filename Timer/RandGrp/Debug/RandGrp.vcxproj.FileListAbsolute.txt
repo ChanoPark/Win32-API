@@ -1,0 +1,2 @@
+C:\test_api\RandGrp\Debug\RandGrp.exe
+C:\test_api\RandGrp\Debug\RandGrp.pdb
