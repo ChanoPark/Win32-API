@@ -1,2 +1,4 @@
 C:\test_api\TwoTimer\Debug\TwoTimer.exe
 C:\test_api\TwoTimer\Debug\TwoTimer.pdb
+C:\Users\koc08\OneDrive\바탕 화면\블로그\Win32\Timer\TwoTimer\Debug\TwoTimer.exe
+C:\Users\koc08\OneDrive\바탕 화면\블로그\Win32\Timer\TwoTimer\Debug\TwoTimer.pdb
