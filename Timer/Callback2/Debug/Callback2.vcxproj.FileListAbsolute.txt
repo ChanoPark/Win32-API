@@ -1,0 +1,2 @@
+C:\test_api\Callback2\Debug\Callback2.exe
+C:\test_api\Callback2\Debug\Callback2.pdb

@@ -1,2 +1,4 @@
 C:\test_api\RandGrp\Debug\RandGrp.exe
 C:\test_api\RandGrp\Debug\RandGrp.pdb
+C:\Users\koc08\OneDrive\바탕 화면\블로그\Win32\Timer\RandGrp\Debug\RandGrp.exe
+C:\Users\koc08\OneDrive\바탕 화면\블로그\Win32\Timer\RandGrp\Debug\RandGrp.pdb
