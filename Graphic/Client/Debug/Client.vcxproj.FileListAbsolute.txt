@@ -1,0 +1,4 @@
+C:\test_api\Client\Debug\Client.exe
+C:\test_api\Client\Debug\Client.pdb
+C:\Users\koc08\OneDrive\바탕 화면\블로그\Win32\Graphic\Client\Debug\Client.exe
+C:\Users\koc08\OneDrive\바탕 화면\블로그\Win32\Graphic\Client\Debug\Client.pdb
