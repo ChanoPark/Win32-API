@@ -1,0 +1,4 @@
+C:\test_api\Brush\Debug\Brush.exe
+C:\test_api\Brush\Debug\Brush.pdb
+C:\Users\koc08\OneDrive\바탕 화면\블로그\Win32\Graphic\Brush\Debug\Brush.exe
+C:\Users\koc08\OneDrive\바탕 화면\블로그\Win32\Graphic\Brush\Debug\Brush.pdb

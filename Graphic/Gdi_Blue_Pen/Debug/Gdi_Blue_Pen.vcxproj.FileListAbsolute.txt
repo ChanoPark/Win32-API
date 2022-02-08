@@ -1,0 +1,4 @@
+C:\test_api\Gdi_Blue_Pen\Debug\Gdi_Blue_Pen.exe
+C:\test_api\Gdi_Blue_Pen\Debug\Gdi_Blue_Pen.pdb
+C:\Users\koc08\OneDrive\바탕 화면\블로그\Win32\Graphic\Gdi_Blue_Pen\Debug\Gdi_Blue_Pen.exe
+C:\Users\koc08\OneDrive\바탕 화면\블로그\Win32\Graphic\Gdi_Blue_Pen\Debug\Gdi_Blue_Pen.pdb
