@@ -1,0 +1,2 @@
+C:\test_api\GdiObject\Debug\GdiObject.exe
+C:\test_api\GdiObject\Debug\GdiObject.pdb
