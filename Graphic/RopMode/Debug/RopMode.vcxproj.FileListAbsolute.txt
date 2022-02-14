@@ -1,0 +1,4 @@
+C:\test_api\RopMode\Debug\RopMode.exe
+C:\test_api\RopMode\Debug\RopMode.pdb
+C:\Users\koc08\OneDrive\바탕 화면\블로그\Win32\Graphic\RopMode\Debug\RopMode.exe
+C:\Users\koc08\OneDrive\바탕 화면\블로그\Win32\Graphic\RopMode\Debug\RopMode.pdb
