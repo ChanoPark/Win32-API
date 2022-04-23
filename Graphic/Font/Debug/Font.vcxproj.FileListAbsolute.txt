@@ -1,0 +1,2 @@
+C:\test_api\Font\Debug\Font.exe
+C:\test_api\Font\Debug\Font.pdb

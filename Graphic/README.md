@@ -18,6 +18,9 @@
 
    #### Bitmap 프로젝트
    * Bitmap : 비트맵 출력을 위한 리소스 등록 및 BitBlt함수 사용  
-      👉[블로그에서 자세한 내용 확인하기](https://chanos.tistory.com/entry/Windows-API-Win32-API%EC%97%90%EC%84%9C-%EB%B9%84%ED%8A%B8%EB%A7%B5-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+      👉[블로그에서 자세한 내용 확인하기](https://chanos.tistory.com/entry/Windows-API-Win32-API%EC%97%90%EC%84%9C-%EB%B9%84%ED%8A%B8%EB%A7%B5-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)  
+
+   #### Font 프로젝트
+   * Font: 폰트를 선택하여 설정에 맞게 화면에 출력하기
 
 <hr/>
