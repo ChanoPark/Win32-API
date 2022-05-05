@@ -1,0 +1,4 @@
+﻿  myButton.cpp
+C:\test_api\MyButton\myButton.cpp(45,6): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+C:\test_api\MyButton\myButton.cpp(46,14): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  MyButton.vcxproj -> C:\test_api\MyButton\Debug\MyButton.exe

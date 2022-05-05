@@ -1,0 +1,2 @@
+C:\test_api\MyButton\Debug\MyButton.exe
+C:\test_api\MyButton\Debug\MyButton.pdb
