@@ -1,0 +1,2 @@
+C:\test_api\DrawRect\Debug\DrawRect.exe
+C:\test_api\DrawRect\Debug\DrawRect.pdb

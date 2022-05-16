@@ -1,0 +1,2 @@
+C:\test_api\DragCircle\Debug\DragCircle.exe
+C:\test_api\DragCircle\Debug\DragCircle.pdb
