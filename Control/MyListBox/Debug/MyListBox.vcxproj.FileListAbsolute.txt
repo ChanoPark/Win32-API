@@ -1,0 +1,2 @@
+C:\test_api\MyListBox\Debug\MyListBox.exe
+C:\test_api\MyListBox\Debug\MyListBox.pdb
